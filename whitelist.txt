@@ -15,6 +15,7 @@ bb
 besu
 big0
 big1
+blobgasfee
 blockchain
 BlockchainTest
 BlockchainTests
@@ -61,6 +62,7 @@ customizations
 Customizations
 danceratopz
 dao
+dataclasses
 datastructures
 delitem
 dev
@@ -113,6 +115,7 @@ git's
 github
 Github
 glightbox
+globals
 go-ethereum's
 gwei
 hash32
@@ -247,6 +250,7 @@ sudo
 t8n
 tamasfe
 TestAddress
+TestContractCreationGasUsage
 TestMultipleWithdrawalsSameAddress
 textwrap
 time15k
@@ -508,6 +512,9 @@ precompile
 precompiles
 deployer
 0x
+modexp
+0x00
+0x10
 
 fi
 url
